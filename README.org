@@ -1,0 +1,21 @@
+#+TITLE: Python Sorting Algorithm Visualization
+#+AUTHOR: Michael Cardiff
+The purpose of this project is to practice my implmentations of various sorting algortihms. 
+* Currently Implemented Algorithms
+None Yet!
+
+* Planned Algorithms
+See [[https://en.wikipedia.org/wiki/Pathfinding#Algorithms_used_in_pathfinding][this link]] for the full list
+- [ ] A* search
+- [ ] Dijsktra's Algorithm
+
+* HOW TO RUN
+This is a Python 3 project, and should be explicitly run with =python3=. Simply run the following and the GUI will open:
+#+BEGIN_EXAMPLE
+python3 main.py
+#+END_EXAMPLE
+If you only have Python 3 installed, then you should just use:
+#+BEGIN_EXAMPLE
+python main.py
+#+END_EXAMPLE 
+
